@@ -2,7 +2,7 @@
   hosts: local
   connection: local
   vars:
-    ami_id: ami-09c813fb71547fc4f
+    ami_id: ami-0220d79f3f480ecf5
     sg_id: sg-0305c8b3be22bdf29  # replace with your SG ID
     zone_id: "Z02120131DEQO3CUTWORT" # replace with your ID
     domain_name: "dev86aws.fun"
